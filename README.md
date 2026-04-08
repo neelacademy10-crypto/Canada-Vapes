@@ -21,16 +21,14 @@ As a member of a five-person analytics team, my primary contribution focused on 
 
 ## Key Skills & Tools
 
-| Skill / Tool | Application in This Project |
-|---|---|
-| **Excel** | Data cleaning, transformation, and dashboard creation |
-| **Power BI** | Interactive visualization and dashboard development |
-| **Exploratory Data Analysis (EDA)** | Identified purchasing patterns, sales distributions, and customer segments |
-| **Data Cleaning & Preparation** | Handled missing values, standardized product names, removed duplicates |
-| **Data Visualization** | Built charts and graphs to communicate retention insights |
-| **Descriptive & Behavioral Analysis** | Analyzed first-purchase behavior to predict customer loyalty |
-| **Data Storytelling** | Connected analytical findings to actionable business recommendations |
-| **Stakeholder Communication** | Presented insights to industry partner through report and presentation |
+- **Excel** — Data cleaning, transformation, and dashboard creation → [`analysis/`](./analysis)
+- **Power BI** — Interactive visualization and dashboard development → [`analysis/`](./analysis)
+- **Exploratory Data Analysis (EDA)** — Identified purchasing patterns, sales distributions, and customer segments → [`visuals/`](./visuals)
+- **Data Cleaning & Preparation** — Handled missing values, standardized product names, removed duplicates
+- **Data Visualization** — Built charts and graphs to communicate retention insights → [`visuals/`](./visuals)
+- **Descriptive & Behavioral Analysis** — Analyzed first-purchase behavior to predict customer loyalty
+- **Data Storytelling** — Connected analytical findings to actionable business recommendations → [`docs/`](./docs)
+- **Stakeholder Communication** — Presented insights to industry partner through report and presentation → [`docs/`](./docs)
 
 ---
 
